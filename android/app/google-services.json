@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "909832257465",
+    "project_id": "getepassport",
+    "storage_bucket": "getepassport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909832257465:android:d0965a675f38d2a99c8068",
+        "android_client_info": {
+          "package_name": "com.thesis.epassport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909832257465-g625iho3lra2emitv3k9a17uqgepc1od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thesis.epassport",
+            "certificate_hash": "efda4ac0f32013251770ab26d81b80ff3b4280f8"
+          }
+        },
+        {
+          "client_id": "909832257465-s977fgq1ru3gshf0daceaokqnrousn9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2CzsBkuT022Zdw7Vo4cPqixZlYtOvbnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909832257465-2ggrq33gfecq188b80cobe9dkvmif3g9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909832257465-vehmgfj7a6bn8sjntm9pbr832eq4fct0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thesis.epassport"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
